@@ -1,0 +1,13 @@
+https://github.com/anthgrim/OrderQue
+
+
+*** Recommended for the final Project
+
+yarn
+
+nvm use 14.18.1
+
+npm run dev
+
+
+
