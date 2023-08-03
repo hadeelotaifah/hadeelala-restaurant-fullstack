@@ -58,8 +58,8 @@ const About = () => {
         <Article title="Tech Specs" listArray={specList} />
         <div className={styles.links_container}>
           <span>
-            Check out the GitHub Repo:{" "}
-            <Link href="https://github.com/anthgrim/OrderQue">
+            Project GitHub Repo:{" "}
+            <Link href="https://github.com/hadeelotaifah/hadeelala-restaurant-fullstack">
               <a className={styles.link} rel="noreferrer" target="_blank">
                 HERE
               </a>
