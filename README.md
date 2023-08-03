@@ -1,4 +1,4 @@
-# OrderQue.com (DEPRECATED)
+# Restaurant MIT
 
 ### Note
 This site has been closed. Although the code sample is still functional. Follow instructions below to run locally
